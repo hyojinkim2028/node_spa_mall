@@ -85,4 +85,5 @@ router.post("/goods/", async(req,res) => { // async -> 동기적으로 처리할
     res.json({goods: createdGoods})
 })
 
+
 module.exports = router; // router 라는 변수를 module.exports를 통해 밖으로 내보내줌.
