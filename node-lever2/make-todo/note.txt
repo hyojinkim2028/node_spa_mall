@@ -1,0 +1,2 @@
+rest api : url, headers, method 등 네트워크 표현 수단을 사람이 봐도 이해하기 쉬운 표현으로 정의하는 것
+validation : 검증
